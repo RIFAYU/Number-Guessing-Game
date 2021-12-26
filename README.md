@@ -1,4 +1,4 @@
-# NUmber Guessing Game
+# Number Guessing Game
 Guessing The Number Game Using C++
 
 Contact : +91 9894372601 , coder0rifa@gmail.com
