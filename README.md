@@ -5,7 +5,7 @@ Contact : +91 9894372601 , coder0rifa@gmail.com
 
 About Project :
     
-      HI, I created a number guessing game using CPP for a beginner level Programming project this project helps to develop my skills and working with CPP programming language
+      HI, I created a number guessing game using CPP for a beginner level Programming project this project helps to develop my skills and working with CPP projects
  Happy Coding !!!!
 
 
